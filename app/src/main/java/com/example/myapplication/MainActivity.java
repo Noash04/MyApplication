@@ -45,7 +45,7 @@ public class MainActivity<CODE> extends AppCompatActivity {
    // private WeatherRVAdapter weatherRVAdapter;
     private LocationManager locationManager;
     private int PERMISSION_CODE = 1;
-    private String cityName;
+    //private String cityName;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
